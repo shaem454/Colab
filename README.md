@@ -1,2 +1,2 @@
-# Collab
-coding from google collab
+# Colab
+coding from google colab
